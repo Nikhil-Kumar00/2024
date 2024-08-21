@@ -75,7 +75,7 @@ class Time
         }
         bool operator<(Time T)
         {
-             if(hour<T.hour)
+            if(hour<T.hour)
                 return true;
             else if(hour>T.hour)
                 return false;

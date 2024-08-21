@@ -110,7 +110,6 @@ class TestResult
 };
 int TestResult::right_weightage;
 int TestResult::wrong_weightage;
-
 void setTestResult(TestResult &t,int r,int right,int wrong)
 {
     t.setRoll_no(r);

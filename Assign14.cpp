@@ -18,7 +18,6 @@ class Complex
         friend Complex operator+(Complex,Complex);
         friend Complex operator-(Complex,Complex);
         friend Complex operator*(Complex,Complex);
-
 };
 Complex operator*(Complex X,Complex Y)
 {
@@ -108,5 +107,6 @@ Array* operator+(Array a1,Array a2)
 }
 int main()
 {
+    
     return 0;
 }

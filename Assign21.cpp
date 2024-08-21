@@ -22,7 +22,6 @@ void f1(char file1[],char file2[])
         }
         fout.close();
     }
-    // fin.close();
 }
 void f2(char file1[])
 {

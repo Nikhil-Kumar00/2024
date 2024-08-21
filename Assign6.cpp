@@ -49,7 +49,7 @@ void sortStrings(char a[][20],int size,bool ass=true)
         }
     }
 }
-//Q3 Rotate an array n position
+//Q3 Rotate an array n position:
 void rotate_Array(int a[],int size,int n=1,int d=1)   
 {
     int i,temp;
